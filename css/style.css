@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+
+.container{
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.ull{
+    display: flex;
+    gap: 40px;
+    color: white;
+    align-items: center;
+}
+.a1{
+    color: #F57520;
+}
+header{
+    padding-top: 43px;
+    padding-bottom: 43px;
+    background-image: url(../images/1.png);
+    background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+.a2{
+    color: white;
+}
+.a3{
+    color: white;
+}
+.a4{
+    color: white;
+}
+.a5{
+    color: white;
+}
+#sek{
+    padding-top: 80px;
+    padding-bottom: 236px;
+ 
+}
+.hh{
+    font-size: 110px;
+    color: white;
+}
+.pp{
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.but{
+    width: 180px;
+    height: 52px;
+    color: white;
+    background-color: #F57520;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+.asad{
+    display: flex;
+    justify-content: space-between;
+}
+ #sekshin{
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+ .h11{
+    font-size: 64px;
+ }
+ .pi{
+    font-size: 18px;
+ }
+ .btn{
+    width: 348px;
+    height: 57px;
+    color: white;
+    background-color: #F57520;
+    border-radius: 10px;
+ }
+ .veliklar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+ .narx{
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+.velikla{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.yonma{
+    display: flex;
+    justify-content: space-between;
+}
+.aksess{
+    margin-top: 5px;
+}
+.velo{
+    margin-top: 5px;
+}
+#seksh{
+    margin-top: 100px;
+}
+.katalog{
+    font-size: 64px;
+    margin-bottom: 44px;
+}
+#ruka{
+    margin-top: 80px;
+    background-color: #F8F8F8;
+}
+.nechevo{
+    font-size: 64px;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#hm{
+    margin-top: 160px;
+    margin-bottom: 80px;
+}
+#xarita{
+    background-image:url(../images/xarita.png) ;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.shapkalar{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+#asad{
+padding-top: 80px;
+background-color: #F8F8F8;
+padding-top: 80px;
+padding-bottom: 80px;
+}
+.chet{
+    margin-left: 289px;
+    color: #F53A20;
+}
+.pe1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}.eki{
+    font-size: 64px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.katta{
+font-size: 64px;
+}
+#oxiri{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.oxirii{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.charchadim{
+    font-size: 64px;
+    color: white;
+}
+.yulduz{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    
+    display: flex;
+    
+    
+}
+.but{
+    color: white;
+    width: 180px;
+    height: 50px;
+}
+.foo{
+    background-color: #131313;
+}
